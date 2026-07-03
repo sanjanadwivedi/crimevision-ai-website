@@ -26,27 +26,29 @@ export default function CTA() {
         </p>
 
         <a
-          href="#platform"
+          href="https://ai-crime-predictive-analysis.streamlit.app"
+          target="_blank"
+          rel="noopener noreferrer"
           className="
-          mt-12
-          inline-flex
-          items-center
-          gap-3
-          rounded-full
-          bg-violet-600
-          px-8
-          py-4
-          font-semibold
-          shadow-lg
-          shadow-violet-600/30
-          transition-all
-          duration-300
-          hover:scale-105
-          hover:bg-violet-500
-          hover:shadow-[0_0_45px_rgba(139,92,246,.45)]
-          "
+    mt-12
+    inline-flex
+    items-center
+    gap-3
+    rounded-full
+    bg-violet-600
+    px-8
+    py-4
+    font-semibold
+    shadow-lg
+    shadow-violet-600/30
+    transition-all
+    duration-300
+    hover:scale-105
+    hover:bg-violet-500
+    hover:shadow-[0_0_45px_rgba(139,92,246,.45)]
+  "
         >
-          Launch Platform
+          Launch Portal
           <ArrowRight size={18} />
         </a>
       </motion.div>

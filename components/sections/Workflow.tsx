@@ -6,29 +6,30 @@ import { Database, BrainCircuit, BarChart3, Map } from "lucide-react";
 const steps = [
   {
     icon: Database,
-    title: "Collect",
-    description: "Import historical NCRB crime data.",
+    title: "Collect Data",
+    description: "Load historical NCRB crime records for analysis.",
   },
   {
     icon: BrainCircuit,
-    title: "Analyze",
-    description: "AI identifies patterns and trends.",
+    title: "Analyze Patterns",
+    description:
+      "AI identifies trends and crime patterns from historical data.",
   },
   {
     icon: BarChart3,
-    title: "Predict",
-    description: "Generate crime forecasts instantly.",
+    title: "Predict Trends",
+    description: "Generate machine learning–based crime forecasts.",
   },
   {
     icon: Map,
-    title: "Visualize",
-    description: "Explore insights through dashboards.",
+    title: "Visualize Insights",
+    description: "Explore dashboards, analytics and interactive heatmaps.",
   },
 ];
 
 export default function Workflow() {
   return (
-    <section id="workflow" className="py-28 scroll-mt-24">
+    <section id="how" className="py-28 scroll-mt-24">
       <div className="mx-auto max-w-7xl px-6">
         <motion.div
           initial={{ opacity: 0, y: 25 }}
