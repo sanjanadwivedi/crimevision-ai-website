@@ -22,7 +22,7 @@ A modern AI-powered platform that predicts crime trends, analyzes historical cri
 
 ### Landing Website
 
-**crimevision-ai-website.vercel.app**
+**https://crimevision-ai-website.vercel.app**
 
 ### AI Platform
 
@@ -157,7 +157,7 @@ Computer Science Undergraduate
 
 Passionate about Artificial Intelligence, Data Analytics and Machine Learning.
 
-- 🌐 Landing Website: **crimevision-ai-website.vercel.app**
+- 🌐 Landing Website: **https://crimevision-ai-website.vercel.app**
 - 🚀 Live Platform: **https://ai-crime-predictive-analysis.streamlit.app**
 - 💻 AI Platform Repository: https://github.com/sanjanadwivedi/AI-Crime-Intelligence-Portal
 
